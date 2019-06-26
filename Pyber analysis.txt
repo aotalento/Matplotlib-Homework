@@ -1,0 +1,12 @@
+# Matplotlib-Homework
+Pyber homework.
+
+Analysis based on Pyber data.
+
+1) As would be expected there is a relation between population density and both average fares and amounts of rides. As density increases so does total number of rides. On the other hand, a more spread out rural population seems to suggest that riders need to take further trips in order to reach their destination. Suburban areas sit comfortably in a middle space, my assumption is that due to less mixed areas of residential and commercial space means that people are traveling further on average to reach their destination while they also have a high enough density to create more demand for rides.
+
+2) Although urban drivers account for the lion's share of fare dollars brought in each driver is less impactful than their suburban or rural counterpart. Urban drivers make up almost 81% of the workforce but only account for 63% of the total revenue. While both the suburban and urban drivers make up a larger share of the revenue per capita. Data I would be interested in seeing would be average wait times before riders are matched with a driver, number of rides canceled due to drivers not being available, and average amount of time drivers spend on the app without receiving a fare. This would give us a clearer picture of whether the issue is an oversaturation of drivers in urban markets or if there is room for growth in rural and suburban areas.
+
+
+3) This goes back to my previous point about there being potential for growth or oversaturation but there are several outliers in the scatter plot where a smaller number of drivers are providing the same number of total rides as cities with a larger driver count. This can be seen in the top 3 cities for urban and the top 4 cities for the suburban based on total rides. This is another place to dive in looking for optimization.
+ 
